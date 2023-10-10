@@ -1,0 +1,22 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(58, 114, 160)
+
+}
+
+h1 {
+    color: rgb(98, 95, 238);
+}
+
+h3 {
+    color: rgb(25, 175, 112);
+}
+
+ul li {
+    color:rgb(32, 124, 97)
+}
+
+ol li {
+    color: rgb(236, 113, 31);
+}
+
