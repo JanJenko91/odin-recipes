@@ -14,6 +14,7 @@ body {
     background-color: rgb(231, 240, 239);
     padding: 20px 5% 10%px 5%;
     text-align: center;
+    padding-bottom: 20px;
 }
 
 .button li{
@@ -21,13 +22,22 @@ body {
     border: 4px solid #1c3ea36d;
     padding: 10px; 
     margin: 0px 50px 20px 50px;
-    background-color: rgb(195, 197, 198);
+    background-color: rgb(195, 196, 196);
+    color: rgb(253, 254, 255);
 }
 
 .shrooms {
     width: 50%;
     padding-bottom: 50px;
     margin-top: 50px;
+}
+
+.backbutton {
+    border: 4px solid #1c3ea36d;
+    padding: 10px; 
+    margin: 0px 50px 20px 50px;
+    background-color: rgb(195, 196, 196);
+    color: rgb(253, 254, 255);
 }
 
 
@@ -42,7 +52,8 @@ h3 {
 
 
 ul li {
-    color:rgb(32, 124, 97)
+    text-align: justify;
+    color:rgb(37, 120, 95)
 }
 
 
