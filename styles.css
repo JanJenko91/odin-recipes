@@ -5,23 +5,51 @@
 }
 
 body {
+    padding-left: 20px;
     background-color: bisque;
     margin: 10%;
 }
 
+.ozadje {
+    background-color: rgb(231, 240, 239);
+    padding: 20px 5% 10%px 5%;
+    text-align: center;
+}
+
+.button li{
+    list-style: none;
+    border: 4px solid #1c3ea36d;
+    padding: 10px; 
+    margin: 0px 50px 20px 50px;
+    background-color: rgb(195, 197, 198);
+}
+
+.shrooms {
+    width: 50%;
+    padding-bottom: 50px;
+    margin-top: 50px;
+}
+
+
 h1 {
     color: rgb(98, 95, 238);
+    padding-top: 50px;
 }
 
 h3 {
     color: rgb(25, 175, 112);
 }
 
+
 ul li {
     color:rgb(32, 124, 97)
 }
 
+
+
 ol li {
     color: rgb(236, 113, 31);
 }
+
+
 
